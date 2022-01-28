@@ -1,0 +1,5 @@
+Figma - Ferramenta colaborativa para design, prototipação de APPs
+  - https://www.figma.com/
+  
+Slider multiplo - Draggable multiple range sliders
+  - https://github.com/quarterpast/Elessar
