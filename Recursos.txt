@@ -1,5 +1,11 @@
+Dio - Cursos grátis
+  - https://www.dio.me/
+
 Figma - Ferramenta colaborativa para design, prototipação de APPs
   - https://www.figma.com/
   
 Slider multiplo - Draggable multiple range sliders
   - https://github.com/quarterpast/Elessar
+  
+Teleport - Open-source free low-code development platform
+  - https://teleporthq.io/free-low-code-platform
