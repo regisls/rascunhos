@@ -9,3 +9,8 @@ Slider multiplo - Draggable multiple range sliders
   
 Teleport - Open-source free low-code development platform
   - https://teleporthq.io/free-low-code-platform
+
+SSL Gratuitos
+  * Let's Encrypt - https://letsencrypt.org/pt-br/
+  * Cloudflare - https://www.cloudflare.com/pt-br/
+  * ZeroSSL - https://zerossl.com/
